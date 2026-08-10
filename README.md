@@ -10,7 +10,7 @@ This project brings the OLED to life with custom animations, digital rain, light
 
 ### ▶️ Watch the Full Build
 
-[![ESP32 + OLED Display | 7 Pins? NO PROBLEM!]([https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/wFMeEI-X_Uc))
+[![ESP32 + OLED Display | 7 Pins? NO PROBLEM!](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/bz2c4A7cJJY))
 
 **ESP32 + OLED Display | 7 Pins? NO PROBLEM!**
 
