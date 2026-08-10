@@ -99,7 +99,7 @@ More ESP32, Arduino, electronics and DIY projects on the BoltBunny YouTube chann
 
 ### 📺 YouTube
 
-👉 **https://youtu.be/bz2c4A7cJJY**
+👉 **[https://youtu.be/bz2c4A7cJJY](https://www.youtube.com/@Bolt_Bunny)**
 
 ---
 
