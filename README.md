@@ -1,4 +1,4 @@
-# ⚡ ESP32 + 7-Pin OLED | BoltBunny Animation Display 
+# ESP32 + 7-Pin OLED | BoltBunny Animation Display 🌧️
 
 Turn a tiny **0.96" 128×64 7-pin OLED display** into a cool animated display using an **ESP32**!
 
