@@ -87,7 +87,7 @@ Install it through:
 
 Main Arduino sketch:
 
-[`BoltBunny_OLED_Animations.ino`](BoltBunny_OLED_Animations.ino)
+[`sketch_aug10c.ino`](sketch_aug10c.ino)
 
 ---
 
