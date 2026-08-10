@@ -1,44 +1,61 @@
-# ESP32 + 7-Pin OLED | BoltBunny Animations
+# ⚡ ESP32 + 7-Pin OLED | BoltBunny Animation Display 🌧️
 
-A custom animation project using an ESP32 and a 0.96" 128x64
-7-pin SPI OLED display.
+Turn a tiny **0.96" 128×64 7-pin OLED display** into a cool animated display using an **ESP32**!
 
-## Features
+This project uses an **SPI OLED connection** to create custom animations including digital rain, lightning effects, glitch transitions, subscribe animations, notifications, particles, and the BoltBunny logo.
 
-- Digital rain effect
-- Lightning logo animation
-- BoltBunny text reveal
-- Glitch effects
-- Subscribe animation
-- Subscribed animation
-- Notification animation
-- Like animation
-- Share animation
-- Particle effects
-- Final logo animation
+---
 
-## Hardware
+## ✨ Features
 
-- ESP32
-- 0.96" 128x64 7-pin OLED
+- ⚡ BoltBunny lightning logo animation
+- 🌧️ Digital rain effect
+- ✨ Smooth BoltBunny text reveal
+- 📺 Clean glitch animation
+- 🔴 Subscribe animation
+- ✅ Subscribed animation
+- 🔔 Notification animation
+- 👍 Like animation
+- ↗️ Share animation
+- ✨ Particle effects
+- 🎬 Final BoltBunny logo animation
+- 🚀 Runs directly on ESP32
+- 💾 Complete Arduino source code included
+
+---
+
+## 🔌 OLED Wiring
+
+### 📟 7-Pin OLED to ESP32
+
+| **OLED Pin** | **ESP32 GPIO** |
+|--------------|----------------|
+| GND          | GND            |
+| VCC          | 3.3V           |
+| D0           | GPIO 18        |
+| D1           | GPIO 23        |
+| RES          | GPIO 4         |
+| DC           | GPIO 2         |
+| CS           | GPIO 5         |
+
+> ⚠️ This OLED uses **SPI**, not I2C.
+
+---
+
+## 📦 Components Required
+
+- ESP32 Dev Board
+- 0.96" 128×64 7-Pin OLED Display
 - Jumper wires
+- USB cable
 
-## OLED Wiring
+---
 
-| OLED | ESP32 |
-|------|-------|
-| GND  | GND |
-| VCC  | 3.3V |
-| D0   | GPIO 18 |
-| D1   | GPIO 23 |
-| RES  | GPIO 4 |
-| DC   | GPIO 2 |
-| CS   | GPIO 5 |
+## 📚 Required Library
 
-## Required Library
+This project uses the **U8g2 OLED library**.
 
+Install:
+
+```text
 U8g2 by olikraus
-
-## Author
-
-BoltBunny
