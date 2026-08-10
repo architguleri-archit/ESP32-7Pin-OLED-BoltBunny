@@ -10,7 +10,7 @@ This project brings the OLED to life with custom animations, digital rain, light
 
 ### ▶️ Watch the Full Build
 
-[![ESP32 + OLED Display | 7 Pins? NO PROBLEM!]https://youtu.be/bz2c4A7cJJY
+[![ESP32 + OLED Display | 7 Pins? NO PROBLEM!](https://img.youtube.com/vi/bz2c4A7cJJY/maxresdefault.jpg)](https://youtu.be/bz2c4A7cJJY)
 
 **ESP32 + OLED Display | 7 Pins? NO PROBLEM!**
 
@@ -39,14 +39,14 @@ In this video, I show the complete wiring, setup, coding, and animations for the
 ### 7-Pin OLED → ESP32
 
 | OLED Pin | ESP32 GPIO |
-|----------|------------|
-| GND | GND |
-| VCC | 3.3V |
-| D0 | GPIO 18 |
-| D1 | GPIO 23 |
-| RES | GPIO 4 |
-| DC | GPIO 2 |
-| CS | GPIO 5 |
+| -------- | ---------- |
+| GND      | GND        |
+| VCC      | 3.3V       |
+| D0       | GPIO 18    |
+| D1       | GPIO 23    |
+| RES      | GPIO 4     |
+| DC       | GPIO 2     |
+| CS       | GPIO 5     |
 
 > ⚠️ This display uses **SPI**, not I2C.
 
@@ -99,7 +99,7 @@ More ESP32, Arduino, electronics and DIY projects on the BoltBunny YouTube chann
 
 ### 📺 YouTube
 
-👉 **[https://youtu.be/bz2c4A7cJJY](https://www.youtube.com/@Bolt_Bunny)**
+👉 [Watch BoltBunny on YouTube](https://youtu.be/bz2c4A7cJJY)
 
 ---
 
